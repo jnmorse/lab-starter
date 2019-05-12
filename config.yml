@@ -34,7 +34,7 @@ steps:
                   # you can execute multiple actions in the `before` block
                   #
   # - type:
-  #   option:
+    with: pr-opened.md
   #
   # - type:
   #   option:
